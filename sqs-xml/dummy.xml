@@ -1,0 +1,14 @@
+<?xml version='1.0'?>
+<ReceiveMessageResponse xmlns='http://queue.amazonaws.com/doc/2012-11-05/'>
+  <ReceiveMessageResult>
+    <Message>
+      <MessageId>dummy</MessageId>
+      <ReceiptHandle>dummy</ReceiptHandle>
+      <MD5OfBody>dummy</MD5OfBody>
+      <Body>dummy</Body>
+    </Message>
+  </ReceiveMessageResult>
+  <ResponseMetadata>
+    <RequestId>dummy</RequestId>
+  </ResponseMetadata>
+</ReceiveMessageResponse>
